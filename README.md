@@ -12,10 +12,11 @@ I am a former theoretical condensed matter physicist looking to transition to in
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
-![Mathematica](https://img.shields.io/badge/-Mathematica-de0900?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) 
+![Mathematica](https://img.shields.io/badge/-Mathematica-de0900?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white) 
 
 
